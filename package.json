@@ -1,7 +1,7 @@
 {
   "name": "my-app4",
   "version": "0.1.0",
-  "homepage": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://asylbek00.github.io/trello",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
@@ -44,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
